@@ -1,0 +1,4 @@
+﻿  VideojuegoFunciones.cpp
+D:\OneDrive - Centre d'Estudis Monlau\ASIX\M16\UF1\VideojuegoFunciones\VideojuegoFunciones\VideojuegoFunciones.cpp(89,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\OneDrive - Centre d'Estudis Monlau\ASIX\M16\UF1\VideojuegoFunciones\VideojuegoFunciones\VideojuegoFunciones.cpp(93,9): warning C4101: 'critico': variable local sin referencia
+  VideojuegoFunciones.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\ASIX\M16\UF1\VideojuegoFunciones\x64\Debug\VideojuegoFunciones.exe
