@@ -17,12 +17,13 @@ string palo;
 
 void cartas(string& palo, int& num, int& repartirCarta, char pedir) {
 	//Numeracion de las cartas segun el valor de la array
-
+	//cartas del 2 al 9
 	if (repartirCarta < 10 && repartirCarta>0)
 	{
 		num = repartirCarta + 1;
 		cout << num << " de " << palo << "\n";
 	}
+	//cartas 10,11,12,13
 	else if (repartirCarta >= 10)
 	{
 
@@ -40,7 +41,7 @@ void cartas(string& palo, int& num, int& repartirCarta, char pedir) {
 			cout << "K de " << palo << "\n";
 		}
 	}
-
+	//carta AS
 	if (repartirCarta == 0 && pedir == 's')
 	{
 		do
@@ -125,7 +126,7 @@ int main()
 	srand(time(NULL));
 	//INICIO
 	cout << "---> BIENVENIDO A JV BLACKJACK <---\n";
-	cout << "Hecho por Nilo Iñesta y Arnau Pedrola\n";
+	cout << "Hecho por Nilo IÃ±esta y Arnau Pedrola\n";
 	system("pause");
 	system("cls");
 
