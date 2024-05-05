@@ -1,0 +1,5 @@
+﻿  CarreraM16.cpp
+C:\Users\nines\OneDrive - Centre d'Estudis Monlau\ASIX\M16\UF3\CarreraM16\CarreraM16\CarreraM16.cpp(46,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Clase.cpp
+  Generando código...
+  CarreraM16.vcxproj -> C:\Users\nines\OneDrive - Centre d'Estudis Monlau\ASIX\M16\UF3\CarreraM16\x64\Debug\CarreraM16.exe
