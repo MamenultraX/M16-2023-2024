@@ -1,0 +1,6 @@
+﻿  Personaje.cpp
+  EnemigoFinal.cpp
+  Source.cpp
+D:\OneDrive - Centre d'Estudis Monlau\ASIX\M16\UF3\M15-HERENCIAinesta\Source.cpp(34,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Project1.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\ASIX\M16\UF3\M15-HERENCIAinesta\x64\Debug\Project1.exe
